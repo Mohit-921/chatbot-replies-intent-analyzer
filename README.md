@@ -47,4 +47,12 @@ This repository demonstrates a **Python-based pipeline** for discovering missing
 
 - Discovered several **missing intents** based on emerging customer behaviors  
 - Suggested **splitting broad intents** for finer-grained classification  
-- Highlighted **failure ca**
+- Highlighted **failure cases and limitations**, along with mitigation strategies  
+
+### Usage
+
+1. Clone the repository: git clone <repo-url>
+2. pip install -r requirements.txt
+3. python intent_expansion_pipeline.py
+
+
